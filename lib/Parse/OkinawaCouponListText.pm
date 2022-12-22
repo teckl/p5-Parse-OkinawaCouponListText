@@ -174,6 +174,7 @@ Shigeki Sugai E<lt>teckl1979 {at} gmail {dot} comE<gt>
 
 L<Parse::OkinawaCouponListText::Row>,
 L<https://okinawasaihakkennext.com/coupon.html>
+L<https://qiita.com/teckl/items/b8d685be2241d0b393c1>
 
 =head1 LICENSE
 

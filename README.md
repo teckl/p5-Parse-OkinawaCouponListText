@@ -53,6 +53,7 @@ get_line で取得した行を、 [Parse::OkinawaCouponListText::Row](https://gi
 
 [Parse::OkinawaCouponListText::Row](https://github.com/teckl/p5-Parse-OkinawaCouponListText/blob/main/lib/Parse/OkinawaCouponListText/Row.pm),
 [https://okinawasaihakkennext.com/coupon.html](https://okinawasaihakkennext.com/coupon.html)
+[https://qiita.com/teckl/items/b8d685be2241d0b393c1](https://qiita.com/teckl/items/b8d685be2241d0b393c1)
 
 # LICENSE
 
